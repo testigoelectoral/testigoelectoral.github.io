@@ -1,2 +1,8 @@
-# testigoelectoral.github.io
-Página web del projecto Testigo electoral
+# Testigo Electoral
+
+## ¿Qué es Testigo Electoral?
+
+## ¿Cual es el objectivo de esta iniciativa?
+
+## ¿Cómo puedo ayudar?
+
